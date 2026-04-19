@@ -163,7 +163,7 @@ finance_backend/
 ### Clone Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/finance-backend.git
+git clone https://github.com/ashwithd/finance-backend.git
 cd finance-backend
 ```
 
