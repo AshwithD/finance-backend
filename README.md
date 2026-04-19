@@ -1,5 +1,4 @@
-
-##💰 Finance Data Processing & Access Control Backend
+## 💰 Finance Data Processing & Access Control Backend
 
 A production-ready backend system for managing financial records, role-based user access, analytics dashboards, and secure authentication.
 
