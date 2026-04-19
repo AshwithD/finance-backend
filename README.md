@@ -248,7 +248,7 @@ Used Decimal/Numeric for financial calculations.
 
 ## 👨‍💻 Author
 
-**Ashwith Gowda**
+**Ashwith D**
 
 Python Backend Developer | FastAPI | Django | PostgreSQL | AWS
 
